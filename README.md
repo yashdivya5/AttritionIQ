@@ -2,7 +2,7 @@
 
 > Predict whether an employee is likely to leave — with AI-powered explanations using SHAP.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://attritioniq-yashdivya5.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yashdivya-attritioniq.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-orange)
 ![SHAP](https://img.shields.io/badge/SHAP-0.42.1-green)
